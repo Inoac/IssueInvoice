@@ -1,0 +1,18 @@
+11764 08:39:43.862124 I | Initializing Coherent UI ver. 2.6.2.0
+11764 08:39:44.531823 I | PID: 5456 | 12720 08:39:43.896719 Staring Coherent UI Host ver. 2.6.2.0
+11764 08:39:44.531823 I | PID: 5456 | 12720 08:39:43.896719 Detected OS: Windows NT 6.2
+11764 08:39:44.531823 I | PID: 5456 | 12720 08:39:44.035504 [5456:12720:INFO:UIContentClient.cpp(74)] GPU info collected in host process: 
+11764 08:39:44.531823 I | PID: 5456 | 12720 08:39:44.035504 [5456:12720:INFO:UIContentClient.cpp(79)] Main GPU vendor 32902 device 16018
+11764 08:39:44.531823 I | PID: 5456 | 12720 08:39:44.035504 [5456:12720:INFO:UIContentClient.cpp(99)] GPU driver Intel Corporation 27.20.100.8854 from 10-14-2020
+11764 08:39:44.531823 I | Coherent UI context initialized successfully
+11764 08:39:44.578610 I | View created successfully with id 0
+11764 08:39:44.596226 I | PID: 5456 | 12720 08:39:44.574865 Navigating view 0 to about:blank
+11764 08:39:44.657416 I | PID: 5456 | 12720 08:39:44.615699 Navigating view 0 to http://localhost:44261/60c726ee8eb44bb5b6a42763a6adfc07/fs/fusioncharts/chart.html
+11764 08:39:44.657416 I | PID: 5456 | 12720 08:39:44.621347 [5456:12720:INFO:(0)] Selected DirectX device in GPUproc info:
+11764 08:39:44.657416 I | PID: 5456 | 12720 08:39:44.621347 [5456:12720:INFO:(0)] Device name {\\.\DISPLAY1}, DeviceId {16018}
+11764 08:39:44.657416 I | PID: 5456 | 12720 08:39:44.621347 [5456:12720:INFO:(0)] VendorId {32902}, Driver ver. {7599910277096086}
+11764 08:39:44.657416 I | PID: 5456 | 7404 08:39:44.623342 [17968:5844:INFO:renderer_main.cc(214)] Running without renderer sandbox
+11764 08:41:08.770309 I | Removing view 0
+11764 08:53:58.272741 I | Uninitializing Coherent UI Session
+11764 08:53:59.405405 I | Coherent UI Session uninitialized successfully
+11764 08:53:59.410309 I | Uninitializing Coherent UI
